@@ -1,0 +1,164 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "https://janaralyspeaking.files.wordpress.com/2013/08/mongolia-night-sky-tent-milkyway-thegeneralist4.jpg"
+        }
+    },
+    {
+        "filename": "que-es-ansible.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "orquestacion.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "casos-de-uso.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "engines.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "donde-obtenerlo.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "una-linea.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "arquitectura.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "inventarios.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "sigue-siendo-una-linea!.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "archivos-de-configuracion.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "lista-de-tareas.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "conocer-a-yaml.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "yaml-crash-course.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "yaml-crash-course-2.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "yaml-crash-course-3.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "una-to-do-list-en-yaml.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "playbooks.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "asi-luce-un-playbook.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "modulos.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "algunos-modulos-a-mencionar.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "el-modulo-template.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "easy-debug.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "debug-en-playbooks.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+        "filename": "ansible-sobre-docker.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    },
+    {
+      "filename": "algunos.html",
+      "attr": {
+        "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+      }
+    },
+    {
+        "filename": "por-ultimo.md",
+        "attr": {
+            "data-background": "https://dl-web.dropbox.com/get/blur_mongolia.jpg?_subject_uid=32744064&w=AACQgznbtq1HpamYdE2VLOoh6UCy2qcdJOSzQOdoEqoBkw"
+        }
+    }
+]
